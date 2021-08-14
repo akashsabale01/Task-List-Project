@@ -11,7 +11,7 @@ to implement follwing features :-
 
 ## Live Demo
 
-[Visit TaskList Website ](https://akashsabale01.github.io/TRIP-Frontend_Bootcamp_website/#instructors) :link:
+[Visit TaskList Website ](https://akashsabale01.github.io/Task-List-Project/) :link:
 ## Lessons Learned
 
 :white_check_mark: DOM mnipulation
