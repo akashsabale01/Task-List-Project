@@ -2,7 +2,7 @@
 # Task List Project - Using Vanilla Javascript
 
 This Project is basically created for understanding how Javascript DOM manipulation can be used
-to implement follwing features :-
+to implementing follwing features :-
 
 * Add Tasks
 * Fliter the tasks
@@ -12,6 +12,11 @@ to implement follwing features :-
 ## Live Demo
 
 [Visit TaskList Website ](https://akashsabale01.github.io/Task-List-Project/) :link:
+
+## Tech Stack
+
+**Frontend:** JavaScript , Materialize css , Html 5
+
 ## Lessons Learned
 
 :white_check_mark: DOM mnipulation
